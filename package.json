@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --runInBand",
+    "test-mt": "MYSQL_USER=root MYSQL_PASSWORD=1234 HOSTNAME=localhost PORT=3306 npm test",
     "test:watch": "jest --watchAll"
   },
   "repository": {
