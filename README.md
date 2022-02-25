@@ -1,6 +1,6 @@
-### Projeto All For One
+# Projeto All For One
 
-# Habilidades
+### Habilidades
 
 - Entender o que são bancos de dados
 - Entender como a linguagem de consulta estruturada (SQL) é usada
